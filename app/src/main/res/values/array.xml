@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="relicLevel">
+        <item>请选择</item>
+        <item>全国重点文物保护单位</item>
+        <item>省级文物保护单位</item>
+        <item>市/县级文物保护单位</item>
+    </string-array>
+
+    <string-array name="relicType">
+        <item>请选择</item>
+        <item>遗址</item>
+        <item>古墓葬</item>
+        <item>古建筑</item>
+        <item>石窟、寺庙</item>
+        <item>大型石刻</item>
+        <item>大型壁画</item>
+        <item>史迹(历史遗迹)</item>
+        <item>代表性建筑</item>
+
+    </string-array>
+
+</resources>
